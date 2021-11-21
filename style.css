@@ -1,0 +1,33 @@
+label {
+    width:350px;
+    font-size: large;
+}
+ div {
+    display: flexbox;
+ }
+
+ footer {
+    width:100%;
+    height:60px;
+    text-align: center;
+ }
+
+ header {
+    text-align: center;
+ }
+
+ #LoginDiv {
+    text-align: center;
+    align-items: center;
+ }
+
+ .MainDiv {
+     height: 100%;
+     display: flex;
+     justify-content: space-between;
+     flex-direction: column;
+ }
+
+ body {
+     background-color: lightsalmon;
+ }
